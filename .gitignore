@@ -132,7 +132,6 @@ celerybeat.pid
 .env
 .venv
 .DS_Store
-artifacts/
 env/
 venv/
 ENV/
